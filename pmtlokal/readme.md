@@ -11,5 +11,6 @@
 - Setting Midtrans & ongkir otomatis
 - Testing, optimasi, dan maintain server
 
-## 🖼️ Screenshot
-![Homepage](homepage.png)
+## 🖼️ Screenshot & Video
+- ![Homepage](homepage.png)
+- ![Homepage](homepage.mp4)
