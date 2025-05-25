@@ -1,7 +1,7 @@
 # Racik Herbal – E-Commerce Multivendo
 
-**Periode:** Mei – November 2021 
-**Stack:** Laravel
+- **Periode:** Mei – November 2021 
+- **Stack:** Laravel
 
 ## 👨‍💻 Peran Saya:
 - Setup hosting, domain, serta optimasi performa dan keamanan
