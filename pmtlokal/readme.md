@@ -1,4 +1,4 @@
-# PMT Lokal – E-Commerce Multivendor
+# PMT Lokal – E-Commerce Single Vendor
 
 **Periode:** Maret – Juni 2023  
 **Stack:** WordPress, WooCommerce
