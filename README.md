@@ -1,4 +1,4 @@
-# 👨‍💻 Farhan's Web Development Portfolio
+# 👨‍💻 Rzhan Dev
 
 kumpulan project yang pernah saya kerjakan.  
 Semua project ini saya buat sendiri dari awal sampai deployment, termasuk frontend dan backend-nya.
