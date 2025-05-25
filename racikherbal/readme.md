@@ -1,6 +1,7 @@
-## Fullstack Web Developer (Laravel)
-Racik Herbal – E-Commerce Multivendor
-Mei – November 2021 (6 Bulan)
+# Racik Herbal – E-Commerce Multivendor
+
+**Periode:** Mei – November 2021 (6 Bulan)
+**Stack:** Laravel
 
 ## 👨‍💻 Peran Saya:
 - Setup hosting, domain, serta optimasi performa dan keamanan
