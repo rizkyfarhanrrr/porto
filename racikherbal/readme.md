@@ -6,4 +6,4 @@ Mei – November 2021 (6 Bulan)
 * Membangun website e-commerce multivendor dari awal hingga rilis
 * Desain gambar banner, slider, dll
 
-[🌸 Home Page ](./racikherbal/Racik Herbal.jpeg)
+[ Home Page ](./RacikHerbal.jpeg)
