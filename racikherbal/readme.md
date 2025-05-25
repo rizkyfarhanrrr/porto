@@ -1,6 +1,6 @@
-# Racik Herbal – E-Commerce Multivendor
+# Racik Herbal – E-Commerce Multivendo
 
-**Periode:** Mei – November 2021 (6 Bulan)
+**Periode:** Mei – November 2021 
 **Stack:** Laravel
 
 ## 👨‍💻 Peran Saya:
