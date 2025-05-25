@@ -12,5 +12,5 @@
 - Testing, optimasi, dan maintain server
 
 ## 🖼️ Screenshot & Video
-![Homepage](homepage.png)
-![Homepage](homepage.mp4)
+- ![Homepage](homepage.png)
+- ![Homepage](homepage.mp4)
