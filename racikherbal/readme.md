@@ -8,4 +8,4 @@ Mei – November 2021 (6 Bulan)
 - Desain gambar banner, slider, dll
 
 ## 🖼️ Screenshot
-* [ Home Page ](./RacikHerbal.jpeg)
+- ![Homepage](homepage.jpeg)
