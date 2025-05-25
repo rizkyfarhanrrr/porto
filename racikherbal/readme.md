@@ -1,4 +1,4 @@
-# Racik Herbal – E-Commerce Multivendo
+# Racik Herbal – E-Commerce Multivendor
 
 - **Periode:** Mei – November 2021 
 - **Stack:** Laravel
