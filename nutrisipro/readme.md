@@ -1,4 +1,4 @@
-# Nutrisi Pro – E-Commerce Multivendor
+# Nutrisi Pro – E-Commerce Single Multivendor
 
 **Periode:** Maret – Juni 2024
 **Stack:** WordPress, WooCommerce
