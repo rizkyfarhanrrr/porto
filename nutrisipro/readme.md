@@ -1,7 +1,7 @@
 # Nutrisi Pro – E-Commerce Single Vendor
 
-**Periode:** Maret – Juni 2024
-**Stack:** WordPress, WooCommerce
+- **Periode:** Maret – Juni 2024
+- **Stack:** WordPress, WooCommerce
 
 ## 👨‍💻 Peran Saya:
 - Membangun website dari nol hingga live
