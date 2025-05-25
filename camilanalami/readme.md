@@ -1,6 +1,6 @@
 # Camilan Alami – E-Commerce Multivendor
 
-**Periode:** Agustus – November 2020  
+**Periode:** 01 Juni - 5 November 2022  
 **Stack:** WordPress, WooCommerce
 
 ## 👨‍💻 Peran Saya:
